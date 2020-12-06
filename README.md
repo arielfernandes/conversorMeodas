@@ -1,4 +1,4 @@
-# conversor
+# Conversor
 
 ## Project setup
 ```
